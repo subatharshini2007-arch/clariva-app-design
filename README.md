@@ -22,25 +22,32 @@ https://www.figma.com/proto/0tEuxY7YA8WxRsaGinYJBu/UI-UX-TASK?node-id=55-77&t=nQ
 ## Screenshots
 
 ### Splash
-![Splash](screenshots/splash.png)
+<img width="390" height="844" alt="Splash - 0" src="https://github.com/user-attachments/assets/c2404da7-cf77-4f82-b372-a3cfca10104f" />
+
 
 ### Login
-![Login](screenshots/login.png)
+<img width="390" height="844" alt="Login - 1" src="https://github.com/user-attachments/assets/4a802e2d-2c8c-43c1-aef9-5149cbcb607c" />
+
 
 ### Onboarding
-![Onboarding](screenshots/onboarding.png)
+<img width="390" height="844" alt="Onboarding - 2" src="https://github.com/user-attachments/assets/43cb6515-34cd-4b9a-b7bd-636944296f9c" />
+
 
 ### Dashboard
-![Dashboard](screenshots/dashboard.png)
+<img width="390" height="844" alt="Dashboard - 3" src="https://github.com/user-attachments/assets/81819016-2f55-4dd0-962b-191562921f89" />
+
 
 ### Smart Quiz
-![Quiz](screenshots/quiz.png)
+<img width="390" height="844" alt="Smart Quiz - 4" src="https://github.com/user-attachments/assets/c6e4dbb1-ac02-411b-8c2c-a03734db7025" />
+
 
 ### AI Tutor
-![Tutor](screenshots/tutor.png)
+<img width="390" height="844" alt="AI Tutor - 5" src="https://github.com/user-attachments/assets/85d6fe70-80b6-478d-beb7-be94130d8765" />
+
 
 ### Roadmap
-![Roadmap](screenshots/roadmap.png)
+<img width="390" height="844" alt="Roadmap - 6" src="https://github.com/user-attachments/assets/c2782cc9-d5d0-40dc-9ffd-d6de148bd322" />
+
 
 ## Design System
 - Primary color: #534AB7 (purple)
