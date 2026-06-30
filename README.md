@@ -8,7 +8,7 @@ roadmap. Designed in Figma covering wireframes, high-fidelity UI,
 and a clickable prototype across 7 screens.
 
 ## Figma Prototype
-[View live prototype](PASTE YOUR FIGMA SHARE LINK HERE)
+https://www.figma.com/proto/0tEuxY7YA8WxRsaGinYJBu/UI-UX-TASK?node-id=55-77&t=nQumBBVIqYUKE6XA-1&scaling=scale-down&content-scaling=fixed&page-id=6%3A26&starting-point-node-id=55%3A63&show-proto-sidebar=1
 
 ## Screens
 1. Splash
